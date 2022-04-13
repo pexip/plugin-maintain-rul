@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    {
+      "id": "maintain-url-plugin-1.0",
+      "srcURL": "plugins/maintain-url/maintain-url.plugin.package.json",
+      "enabled": true
+    }
+  ]
+}

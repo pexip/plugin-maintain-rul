@@ -1,0 +1,10 @@
+{
+    "id": "maintain-url-plugin-1.0",
+    "name": "maintain-url",
+    "description": "Maintain the URL with the conference on refresh",
+    "version": 1.0,
+    "srcURL": "maintain-url.plugin.js",
+    "allowUnload": true,
+    "platforms": ["web", "electron", "ios", "android"],
+    "participantRoles": ["chair", "guest"]
+}
